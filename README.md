@@ -6,10 +6,7 @@
 📊 Apasionado por la visualización de datos y la gestión de proyectos  
 🌎 Basado en Perú, trabajando en soluciones innovadoras a travez de los datos.
 
-<h1 align="center">Hi 👋, I'm Camilo Alegre Huaman</h1>
-<h3 align="center">🌟 Ingeniero Industrial y Especialista en Data Analytics</h3>
-
-- 📫 How to reach me **camiloalegre11@gmail.com**
+- 📫 Como contactarme: **camiloalegre11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
